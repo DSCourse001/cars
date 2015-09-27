@@ -1,0 +1,23 @@
+---
+title: "Developing Data Products Project"
+author: "DSCourse001 User, devdataprod-032 Class"
+date: "Monday, September 28, 2015"
+output: html_document
+---
+
+This is a Readme File for Developing Data Products Project.
+
+Project is a shiny application which you can run anywhere. This shiny app was built to help you study reactive features.
+
+<img src="screen.png" />
+
+Application simply does plot of "cars" data with simple linear interpolation. You can change value of
+X axis and see the fitted value in the caption.
+
+Moreover you can use two measurement systems: Metric and Imperial. First of all you should decide which measurement system is better for you and after that all will be changed to values from measurement system that you have choose: slide bar for Speed and of course the plot.
+
+After that you can save your plot to PNG file.
+
+Have a fun.
+Thanks
+
